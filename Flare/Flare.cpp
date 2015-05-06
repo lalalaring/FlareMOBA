@@ -3,3 +3,5 @@
 #include "Flare.h"
 
 IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, Flare, "Flare" );
+
+DEFINE_LOG_CATEGORY(FlareLog)
